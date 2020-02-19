@@ -1,0 +1,5 @@
+2,2
+0,3
+2
+OXXO|OOXX
+XXOO|XOOX
